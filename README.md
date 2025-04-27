@@ -27,7 +27,7 @@ GPA: 3.8 | Dean’s List (5 semesters)
 ## Projects
 ### AI-Powered Data Anomaly Detection in Financial Transactions
 Built with Python, TensorFlow, SQL, AWS
-
+[View Project on GitHub] (https://github.com/Vaibi78/DataValidationsys.git)
 Developed a machine learning model to detect data anomalies in financial transactions, reducing transaction errors by 35%. Trained a neural network using TensorFlow to identify irregular patterns in real-time datasets, improving the system’s fraud detection capabilities.
 
 
